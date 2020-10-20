@@ -1,0 +1,10 @@
+{
+    "name": "com.github.dotnet-state-machine",
+    "displayName": "Dotnet State Machine",
+    "version": "2.5.1",
+    "unity": "2018.1",
+    "description": "Dotnet State Machine.",
+    "keywords": ["Dotnet State Machine"],
+    "category": "State Management",
+    "dependencies": {}
+}
